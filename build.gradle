@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+}
+
+group 'com.weebly.lplugins'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+}

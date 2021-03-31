@@ -1,0 +1,9 @@
+name: ChatCleaner
+version: '1.0'
+author: '_LolG0D_'
+main: me.lolgod.cc.ChatCleaner
+api-version: 1.13
+commands:
+  chatcleaner:
+    aliases: 'cc'
+    description: "Command used for cleaning the chat."
